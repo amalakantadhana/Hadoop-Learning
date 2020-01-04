@@ -1,0 +1,1 @@
+create external table employee_ext(Name String, Sal Int) row format delimited fields terminated by ',' LOCATION '/employee';
