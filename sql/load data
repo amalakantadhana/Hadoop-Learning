@@ -1,0 +1,2 @@
+
+LOAD DATA INPATH '/home/hadoop/employee.csv' OVERWRITE INTO TABLE Employee;
