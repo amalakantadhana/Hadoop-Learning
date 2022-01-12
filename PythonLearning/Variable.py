@@ -9,6 +9,7 @@ print name
 x=4 # x is type of int
 x="sallyy" # x is type of str
 print(x)
+print(x+x)
 
 # third
 x = "John"
